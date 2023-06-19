@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import Cliente from "@/core/Cliente";
+import Cliente from "../core/Cliente";
 import ColecaoCliente from "@/backend/db/ColecaoCliente";
 import ClienteRepositorio from "@/core/ClienteRepositorio";
 import useTabelaOuForm from "./useTabelaOuForm";
